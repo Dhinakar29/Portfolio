@@ -1,0 +1,24 @@
+[
+
+  {
+    "role": "Asst Systems Engineer",
+    "organisation": "Tata Consultancy Services",
+    "startDate": "Apr, 2023",
+    "endDate": "Jan, 2024",
+    "experiences": ["Worked on Code Review", "Designed the control panel"
+                     ,"worked on web development using React js"],
+    "imageSrc": "history/tcs1.jpeg"
+  },
+  {
+    "role": "Project Engineer",
+    "organisation": "E-con Systems",
+    "startDate": "July, 2021",
+    "endDate": "Jan, 2023",
+    "experiences": [
+      "Developed a Device monitoring website using React and Bootstrap, resulting in a 50% increase in Data's storage and a 75% decrease in bounce rates",
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/econ.png"
+  }
+]

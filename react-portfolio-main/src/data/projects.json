@@ -1,0 +1,27 @@
+[
+  {
+    "title": "CONTENT LISTING APPLICATION ",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a responsive movie browsing web app using React that features a dynamic grid layout, client-side search functionality, lazy loading with Intersection Observer, and optimized UI elements using CSS for seamless user experience. Integrated API data handling, maintained performance, and ensured adaptive design for mobile view.",
+    "skills": ["React", "Express", "Node","MongoDb"],
+    "demo": "https://www.example.com"
+    
+  },
+  {
+    "title": "RESERVATION SYSTEM",
+    "imageSrc": "projects/project.png",
+    "description": "Developed a user-friendly reservation system with a date picker feature, allowing users to select available dates and make reservations efficiently. Implemented real-time availability checks to ensure bookings are only made for open slots, enhancing user experience and minimizing double bookings. The system provides an intuitive interface for managing reservations, ensuring seamless date selection and confirmation",
+    "skills": ["React", "Express", "Node","MongoDb"],
+    "demo": "https://www.example.com"
+    
+  },
+  {
+    "title": "CUBE EXTRUSION APPLICATION ",
+    "imageSrc": "projects/project.png",
+    "description": "Built an interactive 3D cube extrusion system using the Babylon.js framework, allowing users to create and modify cube properties in real-time. Integrated dynamic controls for adjusting dimensions, colors, and other attributes, providing an immersive visualization experience in a 3D environment. The system offers a responsive interface for real-time updates, making it ideal for applications requiring interactive 3D modeling and visualization.",
+    "skills": ["React", "Express", "Node","MongoDb"],
+    "demo": "https://www.example.com"
+    
+  }
+
+]
